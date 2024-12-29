@@ -1,2 +1,2 @@
-# CA231N
-My learning journey in Stanford CA231N.
+# CS231N
+  My learning journey in Stanford CS231N.
